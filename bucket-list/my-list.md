@@ -1,17 +1,19 @@
-# My To Do List
+# My To-Do-List
 
-## Education
- * Finish javascript online course
- * Write final paper
- * Schedule time to talk with teacher
+## Finantial Plan
+ * Save for college education
+ * ~~Organize a family portrait~~
+ * Throw a surprise party for a loved one
 
-## Fitness
- * Run a 10K
- * Lift weights 3X/week
+## Travel and Adventure
+ * Visit Antarctica
+ * Go skydiving
+ * Dive the Great Barrier Reef
  
-## Shopping List
+## Career
  * ~~Learn coding skills~~
  * Get a job in technology
+ * Make a successful business
 
 ## Service and volunteering
  * Join a nonprofit board
